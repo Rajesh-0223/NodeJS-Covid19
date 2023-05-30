@@ -1,0 +1,5 @@
+GET http://localhost:3009/states/
+
+###
+
+GET http://localhost:3009/states/8/
